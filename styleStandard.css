@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+}
+
+#topOfPage{
+    background-color: red;
+    /*border: 1px solid #000;*/
+    width: 100%;
+}
+
+#topButtons{
+    color: blue;
+    text-align: center;
+}
